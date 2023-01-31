@@ -1,4 +1,4 @@
-# Instalation instructions
+# Installation instructions
 
 ## Windows
 
