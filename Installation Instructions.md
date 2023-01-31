@@ -16,7 +16,7 @@
 
 You should get as output your subscription information (or all your subscriptions if many).
 
-If you happen to have an error euthenticating this way, or you need to change subscriptions jus run:
+If you happen to have an error euthenticating this way, or you need to change subscriptions just run:
 
 `az login --tenant {YOUR SUBSCRIPTION ID}`
 
